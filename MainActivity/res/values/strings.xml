@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Button Game</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="button_press">Press screen to begin.</string>
+    <string name="title_activity_display_message">Connecting</string>
+    <string name="connecting">Connecting&#8230;</string>
+
+    <color name="gray87">#DEDEDE</color>
+
+    <string name="title_activity_accelerometer">Accelerometer</string>
+
+</resources>
